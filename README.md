@@ -6,3 +6,6 @@
 - [x] Read Student
 
 A Java Server Pages web application
+> MYSQL as Database enginee
+> Java as programming language
+> JSP as a web development tool
