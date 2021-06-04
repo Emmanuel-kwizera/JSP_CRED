@@ -6,6 +6,6 @@
 - [x] Read Student
 
 A Java Server Pages web application
-> \*MYSQL\* as Database engine,  to \*our-old-project\*.
+> \*MYSQL\* and  as Database engine,  to .
 > Java as programming language, and 
 > JSP as a web development tool
