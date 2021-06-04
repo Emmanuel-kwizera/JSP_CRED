@@ -8,4 +8,4 @@
 A Java Server Pages web application
 > \*MYSQL\* and \*Hibernate\* as Database engine,
 > Java as programming language, and 
-> JSP as a web development tool
+> JSP as a web development tool.
