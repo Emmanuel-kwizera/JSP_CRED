@@ -1,7 +1,7 @@
 # JSP_CRUD
 #### Student Management System
 - [x] Create Student
-Read Student
+- [x] Read Student
 - [x] Update Student
 - [x] Delete Student
 
