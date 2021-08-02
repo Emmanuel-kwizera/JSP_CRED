@@ -3,7 +3,7 @@
 - [x] Create Student
 - [x] Update Student
 - [x] Delete Student
-- [x] Read Student
+- [x] 
 
 A Java Server Pages web application
 > \*MYSQL\* and \*Hibernate\* as Database engine,
