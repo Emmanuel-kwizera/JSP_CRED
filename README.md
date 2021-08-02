@@ -2,9 +2,8 @@
 #### Student Management System
 - [x] Create Student
 Read Student
- [x] Update Student
+- [x] Update Student
 - [x] Delete Student
-- [x] 
 
 A Java Server Pages web application
 > \*MYSQL\* and \*Hibernate\* as Database engine,
